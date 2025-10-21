@@ -8,10 +8,7 @@ class Shape {
         $this->width = $width;
         $this->height = $height;
     }
-
- //   protected function calculateBase(): float {
- //       return $this->width * $this->height;
- //   }
+    
 }
 
 ?>
