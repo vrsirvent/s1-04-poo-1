@@ -4,4 +4,14 @@
   ## Description
   Write a program that defines a Shape class with a constructor that receives the width and height as parameters. Define two subclasses, Triangle and Rectangle, that inherit from Shape and calculate the area using a method.
 
-     
+/exercise
+      ├── scr/                  # Source code
+      |    │
+      |    ├── index.php        # PHP file with main script
+      |    ├── shape.php        # PHP file with class Shape
+      |    ├── triangle.php     # PHP file with class Triangle extends Shape 
+      |    └── rectangle.php    # PHP file with class Rectangle extends Shape 
+      |
+      └── README.md     # Exercise documentation     
+
+
